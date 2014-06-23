@@ -1,0 +1,11 @@
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Debug\Jugadores.exe.manifest
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Debug\Jugadores.application
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Debug\Jugadores.exe
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Debug\Jugadores.pdb
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Debug\Mono.Security.dll
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Debug\Npgsql.dll
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Debug\Jugadores.exe.manifest
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Debug\Jugadores.application
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Debug\Jugadores.exe
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Debug\Jugadores.pdb
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Debug\Jugadores.csprojResolveAssemblyReference.cache

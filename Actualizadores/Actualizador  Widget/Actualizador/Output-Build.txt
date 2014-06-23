@@ -1,0 +1,7 @@
+﻿------ Rebuild All started: Project: Actualizador, Configuration: Release x86 ------
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\Form1.cs(1131,34): warning CS0168: The variable 'e' is declared but never used
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\Conexion.cs(40,34): warning CS0168: The variable 'ex' is declared but never used
+
+Compile complete -- 0 errors, 2 warnings
+  Actualizador -> C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\Actualizador.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

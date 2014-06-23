@@ -1,0 +1,25 @@
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\Actualizador.exe
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\Actualizador.pdb
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\Npgsql.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\Mono.Security.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\Npgsql.pdb
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\Npgsql.xml
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\de\Npgsql.resources.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\es\Npgsql.resources.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\fi\Npgsql.resources.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\fr\Npgsql.resources.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\ja\Npgsql.resources.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\zh-CN\Npgsql.resources.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\Actualizador.Form1.resources
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\Actualizador.Properties.Resources.resources
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\Actualizador.exe
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\Actualizador.pdb
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\Log_library.dll
+C:\Users\Hp5550la\Documents\Proyectos\Proyectos Movistar\Actualizador  Widget\Actualizador\Actualizador\bin\Release\emailFeed.dll
+C:\Users\RCortés\Documents\GitHub\General\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\Actualizador.exe
+C:\Users\RCortés\Documents\GitHub\General\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\Actualizador.pdb
+C:\Users\Matias\Documents\GitHub\General\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\Actualizador.exe
+C:\Users\Matias\Documents\GitHub\General\Actualizador  Widget\Actualizador\Actualizador\obj\x86\Release\Actualizador.pdb

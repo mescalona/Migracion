@@ -1,0 +1,10 @@
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Release\Jugadores.exe.manifest
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Release\Jugadores.application
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Release\Jugadores.exe
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Release\Jugadores.pdb
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Release\Mono.Security.dll
+C:\Users\Matias\Desktop\Jugadores\Jugadores\bin\Release\Npgsql.dll
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Release\Jugadores.exe.manifest
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Release\Jugadores.application
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Release\Jugadores.exe
+C:\Users\Matias\Desktop\Jugadores\Jugadores\obj\Release\Jugadores.pdb
